@@ -331,7 +331,7 @@ templates/voice.md                 your voice profile. Fill this in first.
 Made by Jake Schincariol, [opusjake.ai](https://opusjake.ai).
 
 Sibling repo, same idea for a different platform:
-[linkedin-agent-skill](https://github.com/Jakeschincariol/linkedin-agent-skill).
+[linkedin-agent-skill](https://github.com/MatthewTrevor/linkedin-agent-skill).
 
 ## License
 
